@@ -1,0 +1,12 @@
+alert('Hello Welcome To Blupit')
+prompt('This Game Is Not Done Yet Type OK to continue')  
+alert('Thank You For Testing My Site')
+prompt('Do You Have A Api Pin If So Type It In If Not Say No')
+alert('This Is A Recreate Of Blooket')
+alert('Enjoy')
+prompt('Login, What Would You Like Your User Name To Be? If You Already Have A Username Then Type It In')
+prompt('Login, What Would You Like Your Password To Be? If You Already Have A Password Then Type It In')
+alert('Login successful')
+alert('Enjoy')
+alert('https://www.youtube.com/channel/UCR_dk0QQYk6zCvgs9l8JL5A')
+
